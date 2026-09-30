@@ -602,6 +602,10 @@ dialog::backdrop {
  .hero h1 {
     font-size: 2rem;
   }
+  .logo-fluid {
+    width: 100px;
+    height: 100px;
+  }
 }
 @media (max-width: 575px) and (orientation: portrait) {
   .youtube {
