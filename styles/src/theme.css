@@ -509,7 +509,7 @@ form button {
 .loader {
   height: 4px;
   width: 100%;
-  --c: no-repeat linear-gradient(var(--success) 0 0);
+  --c: no-repeat linear-gradient(var(--danger) 0 0);
   background: var(--c), var(--c), #FFFFFF;
   background-size: 60% 100%;
   animation: l16 3s infinite;
